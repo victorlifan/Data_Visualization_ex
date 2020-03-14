@@ -15,7 +15,7 @@
     + Pair plot
     + Correlation heatmap
  - Case Study (Diamond Dataset):
-  + Univariate Exploration
-  + Bivariate Exploration
-  + Multivariate Exploration
-  + Explanatory polishing
+    + Univariate Exploration
+    + Bivariate Exploration
+    + Multivariate Exploration
+    + Explanatory polishing
